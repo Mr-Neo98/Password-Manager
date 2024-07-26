@@ -69,20 +69,4 @@ This Python-based password manager allows users to securely store and manage the
 - **Master Password**: Required to access the encrypted passwords. The key derivation function (PBKDF2) ensures that the master password is securely hashed.
 - **Encryption**: Passwords are encrypted using the Fernet symmetric encryption scheme.
 
-## Contributing
-
-1. **Fork the repository**.
-2. **Create a feature branch**:
-    ```bash
-    git checkout -b feature/your-feature
-    ```
-3. **Commit your changes**:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. **Push to the branch**:
-    ```bash
-    git push origin feature/your-feature
-    ```
-5. **Open a pull request**.
-
+ 
